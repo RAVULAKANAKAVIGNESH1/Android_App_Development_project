@@ -1,6 +1,8 @@
-#NAME: RAVULA KANAKA VIGNESH
-#GOOGLE DEVELOPER PROFILE: https://g.dev/RAVULAKANAKAVIGNESH
-#DEMO VIDEO AND PROJECT DOCUMENT LINK: https://drive.google.com/drive/folders/1aqXyrcXLf7JQ0boLe6FtwyD2bGAVfP1d?usp=sharing
+NAME: RAVULA KANAKA VIGNESH
+
+GOOGLE DEVELOPER PROFILE: https://g.dev/RAVULAKANAKAVIGNESH
+
+DEMO VIDEO AND PROJECT DOCUMENT LINK: https://drive.google.com/drive/folders/1aqXyrcXLf7JQ0boLe6FtwyD2bGAVfP1d?usp=sharing
 # SPSGP-81964-Virtual-Internship---Android-Application-Development-Using-Kotlin
 Virtual Internship - Android Application Development Using Kotlin
 
